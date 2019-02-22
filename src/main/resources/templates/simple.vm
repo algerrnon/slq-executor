@@ -1,0 +1,7 @@
+<note>
+	<to>${value}</to>
+	<from>${value}</from>
+	<heading>${value}</heading>
+	<body
+		${value}</body>
+</note>
